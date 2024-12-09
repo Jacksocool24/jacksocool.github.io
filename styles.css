@@ -140,3 +140,10 @@ nav a:hover {
     border-radius: 8px; /* 可选：为图片添加圆角 */
     margin-bottom: 20px; /* 设置图片和文本之间的间距 */
 }
+
+/* 针对 canvas-product1.html 中的特定图片 */
+.canvas-product1-image {
+    width: 100%;         /* 适应父元素宽度 */
+    max-width: 500px;    /* 设置最大宽度为500px */
+    height: auto;        /* 自动调整高度，保持比例 */
+}
