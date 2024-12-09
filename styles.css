@@ -143,7 +143,7 @@ nav a:hover {
 
 /* 针对 canvas-product1.html 中的特定图片 */
 .canvas-product1-image {
-    width: 100%;         /* 适应父元素宽度 */
-    max-width: 500px;    /* 设置最大宽度为500px */
+    width: 30%;         /* 适应父元素宽度 */
+    max-width: 50px;    /* 设置最大宽度为500px */
     height: auto;        /* 自动调整高度，保持比例 */
 }
